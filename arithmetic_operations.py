@@ -20,3 +20,26 @@ print(t*s*r) #addition of a string
 j,h=3,5
 u='#'
 print((j+h)*u) 
+
+"""relational operators"""
+z=3
+y=7
+print(z+y)
+print(z-y)
+print(z/y)
+print(z%y)
+print(z*y)
+print(z**y)
+"""assignment operators"""
+i=6
+j=45
+print(i==j)
+print(i>j)
+print(i<j)
+print(i>=j)
+print(i<=j)
+print(i!=j)
+
+a="dha"
+b=5
+print(a+b)
